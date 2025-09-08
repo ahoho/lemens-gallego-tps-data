@@ -48,7 +48,7 @@ for example in data:
 
 ### Experimentation
 
-**Setup** Filter the data to the `"Social"` `policy_area` and to `"Experts"`, compute OrdinalTPS against the `label_ordinal`, comparing the `prompt_social_basic.txt` and `prompt_social_technical.txt` prompts. 
+**Setup**: Filter the data to the `"Social"` `policy_area` and to `"Experts"`, compute OrdinalTPS against the `label_ordinal`, comparing the `prompt_social_basic.txt` and `prompt_social_technical.txt` prompts. 
 
 Then repeat, filtering to the `"Social"` data and using the corresponding prompts.
 
@@ -64,4 +64,4 @@ As an additional check, perhaps also plot the absolute difference.
 
 It may also be worth filtering the data such that the crowd data has higher agreement (`label_std<0.5`).
 
-**Additional check**: Compute the `OrdinalTPS` where the target comes from the *crowd*. The hypothesis is that these 
+**Additional check**: Compute the `OrdinalTPS` where the target comes from the *crowd*. I believe hypothesis is that these will be smaller on average than for the expert labels.
