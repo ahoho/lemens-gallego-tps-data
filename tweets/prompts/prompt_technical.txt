@@ -1,0 +1,11 @@
+You will be provided with the text of a tweet published by a member of the US Congress. Where does this text stand on the 'left' to 'right' wing scale?
+
+**Left-wing** politics is the range of political ideologies that support and seek to achieve social equality and egalitarianism, often in opposition to social hierarchy either as a whole or of certain social hierarchies. Left-wing politics typically involve a concern for those in society whom its adherents perceive as disadvantaged relative to others as well as a belief that there are unjustified inequalities that need to be reduced or abolished, through radical means that change the nature of the society they are implemented in.
+
+**Right-wing** politics is the range of political ideologies that view certain social orders and hierarchies as inevitable, natural, normal, or desirable, typically supporting this position favoring natural law, economics, authority, property, religion, or tradition. Hierarchy and inequality may be seen as natural results of traditional social differences or competition in market economies.
+
+Provide your response as a score between 1 and 9 where 1 means 'Extremely left' and 9 means 'Extremely right'. Do not provide explanations.
+
+###
+TWEET: {text}
+LABEL: 

@@ -1,0 +1,29 @@
+You will be provided with a sentence from a party manifesto. Where does this sentence stand on the "left" to "right" wing scale, in terms of economic policy?
+
+**Economic** policies deal with all aspects of the economy, including:
+Taxation;
+Government spending;
+Services provided by the government or other public bodies;
+Pensions, unemployment and welfare benefits, and other state benefits;
+Property, investment and share ownership, public or private;
+Interest rates and exchange rates;
+Regulation of economic activity, public or private;
+Relations between employers, workers and trade unions.
+
+**Left** economic policies tend to favor one or more of the following:
+High levels of services provided by the government and state benefits, even if this implies high levels of taxation;
+Public investment. Public ownership or control of sections of business and industry;
+Public regulation of private business and economic activity;
+Support for workers/trade unions relative to employers.
+
+**Right** economic policies tend to favor one or more of the following:
+Low levels of taxation, even if this implies low levels of levels of services provided by the government and state benefits;
+Private investment. Minimal public ownership or control of business and industry;
+Minimal public regulation of private business and economic activity;
+Support for employers relative to trade unions/workers
+
+Provide your response as a score between 1 and 5 where 1 means "Extremely left" and 5 means "Extremely right". Do not provide explanations.
+
+###
+SENTENCE: {text}
+LABEL: 

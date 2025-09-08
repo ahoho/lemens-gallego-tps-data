@@ -1,0 +1,5 @@
+You will be provided with the text of a tweet published by a member of the US Congress. Where does this text stand on the 'left' to 'right' wing scale? Provide your response as a score between 1 and 9 where 1 means 'Extremely left' and 9 means 'Extremely right'. Do not provide explanations.
+
+###
+TWEET: {text}
+LABEL: 

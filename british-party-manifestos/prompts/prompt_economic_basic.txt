@@ -1,0 +1,5 @@
+You will be provided with a sentence from a party manifesto. Where does this sentence stand on the "left" to "right" wing scale, in terms of economic policy? Provide your response as a score between 1 and 5 where 1 means "Extremely left" and 5 means "Extremely right". Do not provide explanations.
+
+###
+SENTENCE: {text}
+LABEL: 
