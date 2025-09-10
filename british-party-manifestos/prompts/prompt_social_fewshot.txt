@@ -1,0 +1,20 @@
+You will be provided with a sentence from a party manifesto. Where does this sentence stand on the "left" to "right" wing scale, in terms of social policy? Provide your response as a score between 1 and 5 where 1 means "Extremely left" and 5 means "Extremely right". Do not provide explanations.
+
+###
+SENTENCE: We will also help those granted refugee status to integrate into the local community, supporting them so they can come off benefits and into work.
+LABEL: 2
+---
+SENTENCE: We will ensure that immigration policy is non-discriminatory in its application.
+LABEL: 2
+---
+SENTENCE: Make pensions fairer to women, by working to replace the contributory system with pension rights based on citizenship and residence in the UK.
+LABEL: 2
+---
+SENTENCE: Britain experiences less violent crime than many comparable countries.
+LABEL: 3
+---
+SENTENCE: As resources allow, we will increase the number of hours prisoners spend in education and training.
+LABEL: 2
+---
+SENTENCE: {text}
+LABEL: 
